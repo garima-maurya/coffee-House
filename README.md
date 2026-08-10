@@ -5,7 +5,7 @@ A simple and elegant coffee shop website built using **HTML5 and CSS3**. This pr
 ## 🌐 Links
 
 - **Repository:** https://github.com/garima-maurya/coffee-House
-- **Live Demo:** Add your GitHub Pages live demo link here
+- **Live Demo:** 
 
 ## ✨ Features
 
@@ -80,8 +80,3 @@ Coffee-House/
 - Contact form validation
 - Interactive animations
 
-## 👩‍💻 Author
-
-**Garima Maurya**
-
-Frontend Developer | HTML | CSS
